@@ -1,0 +1,4 @@
+2026-11-23 20:45:04 | https://google.com | UP | 200 | 1551ms
+2026-11-23 20:45:04 | https://github.com | UP | 200 | 852ms
+2026-11-23 20:45:04 | https://example.com | UP | 200 | 1014ms
+2026-11-23 20:45:04 | http://localhost:9999/ | DOWN | None | Nonems
